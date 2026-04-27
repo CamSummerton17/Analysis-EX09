@@ -8,19 +8,34 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
+## Introduction
+
+In this website, 3 analysis were done to justify the addition of extra coding experience as smaller assignments between the larger exercises present within the Comp 110 course. 
+
+This analysis is based on the survey that was given to two sections of the Comp 110 course. 
+
 ## Analysis 1: Prior Experience
 
-This is basic paragraph text.
+This analysis was run to justify the need for more coding exercise as many students coming in do not have any prior experience as shown by the graphs below.
+
+This analysis used the survey data question prior_exp and individuals answers to base the conclusion.
+
 <img src="/static/imgs/Output1.png" alt= "Prior Experience Visualization"/>
 
 ## Analysis 2: Other Computer Science Classes
 
-Text
+This analysis was used to show that many people first take a computer science class when in their college experience at UNC, and many times do not come into college with prior computer science classes taken. 
+
+This anaylsis used the survey data question Other_comp and used each individuals answers on their prior computer science classes and where they were taken to answer this question. 
+
 <img src="/static/imgs/Output2.png" alt= "Other Computer Science Classes Visualization"/>
 
 ## Analysis 3: Computer Science Majors
 
-More Text 
+The final analysis was to see how many people within the course were computer science majors, as many times those individuals do have prior experience and may not need prior coding experience. However it was seen that many people within this course are not so they might need the extra help. 
+
+This analysis used the survey data question comp_major and used individuals answers. 
+
 <img src="/static/imgs/Output3.png" alt= "Computer Science Majors"/>
 
 ## Conclusion
