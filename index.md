@@ -16,7 +16,7 @@ This analysis is based on the survey that was given to two sections of the Comp 
 
 ## Analysis 1: Prior Experience
 
-This analysis was run to justify the need for more coding exercise as many students coming in do not have any prior experience as shown by the graphs below.
+This analysis was run to justify the need for more coding exercise as many students coming in do not have any prior experience as shown by the graphs below. If individuals have prior experience then they may not need any other coding opportunities, so seeing as many individuals didn't have this the coding experience may be more beneficial for individuals who come in with no prior experience. 
 
 This analysis used the survey data question prior_exp and individuals answers to base the conclusion.
 
@@ -24,7 +24,7 @@ This analysis used the survey data question prior_exp and individuals answers to
 
 ## Analysis 2: Other Computer Science Classes
 
-This analysis was used to show that many people first take a computer science class when in their college experience at UNC, and many times do not come into college with prior computer science classes taken. 
+This analysis was used to show that many people first take a computer science class when in their college experience at UNC, and many times do not come into college with prior computer science classes taken. This lack of prior courses taken may justify the need for extra mini coding practices as many students may know how to work computers but may not know exactly how the code should be written. 
 
 This anaylsis used the survey data question Other_comp and used each individuals answers on their prior computer science classes and where they were taken to answer this question. 
 
