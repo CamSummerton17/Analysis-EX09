@@ -11,15 +11,17 @@ layout: default
 ## Analysis 1: Prior Experience
 
 This is basic paragraph text.
-<img src="
+<img src="/static/imgs/Output1.png" alt= "Prior Experience Visualization"
 
-## Analysis 2: Other Copmputer Science Classes
+## Analysis 2: Other Computer Science Classes
 
 Text
+<img src="/static/imgs/Output2.png" alt= "Other Computer Science Classes Visualization"
 
 ## Analysis 3: Computer Science Majors
 
 More Text 
+<img src="/static/imgs/Output3.png" alt= "Computer Science Majors"
 
 ## Conclusion
 
